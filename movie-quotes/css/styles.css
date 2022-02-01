@@ -1,0 +1,25 @@
+p {
+    font-family:'tahoma';
+    margin-left: 50px;
+    color: white;
+}
+
+p:hover, a:hover {
+    color: rgb(235, 213, 20);}
+
+h1 {
+
+    font-family:'tahoma';
+    margin-left: 50px;
+    color:white
+}
+
+h2 {
+    font-family:'tahoma';
+    margin-left: 50px;
+    color: white
+}
+
+body {
+    background-color: darkred;
+  }   
