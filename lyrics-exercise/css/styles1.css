@@ -1,0 +1,52 @@
+p {
+    font-family:'georgia';
+    margin-left: 40px;
+    color: white;
+    text-shadow: 1px 1px #db5d02;
+    letter-spacing: 0.5px;
+    line-height: 30%;
+}
+
+.move{
+    margin-top: 6%;
+    margin-right: 5%;  
+}
+
+    p:hover, a:hover {
+    color: rgb(255, 212, 125)}
+
+h1 {
+
+    font-family:'georgia';
+    font-size: 250%;
+    margin-left: 18px;
+    color: white;
+    text-shadow: 2px 2px #db5d02;
+      }
+
+h3 {
+
+    font-family:'georgia';
+    margin-left: 40px;
+    color: white;
+    text-shadow: 2px 2px #db5d02;
+}
+
+.division1{
+    font-family:'georgia';
+    margin-left: 40px;
+    color: white;
+    text-shadow: 1px 1px #db5d02;
+    font-size: 130%;
+    line-height: 1%;
+}
+
+body {
+    background-color: rgb(252, 107, 5);
+    border-style: dotted;
+    border-width: 30px;
+    border-top-color: rgb(252, 169, 5) ;
+    border-left-color:rgb(255, 187, 50)  ;
+    border-right-color: rgb(255, 187, 50)  ;
+    border-bottom-color: rgb(252, 169, 5) ;
+}
