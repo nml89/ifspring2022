@@ -1,0 +1,36 @@
+html {
+
+    margin: 3%;
+}
+
+.honey1 {
+
+    float: right;
+    margin: 0 0 0 3rem;
+}
+
+h1 {
+
+    font-size: 40px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.box-with-text {
+
+    background-color: #f5bf0e;
+    padding: 2rem;
+    border: 5px solid #a3781a;
+    width: 80%;
+    box-sizing: border-box;
+    float: right;
+    margin: 2rem 0 1rem 5rem;
+
+}
