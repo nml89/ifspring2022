@@ -1,0 +1,596 @@
+/* START gen CSS */
+
+html {
+
+    width: auto!important; 
+    overflow-x: hidden!important; /* I tried to trick the html because I couldn't figure something out! */
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/1302754.jpg");
+    font-family: 'Cinzel', serif;
+    background-color:rgba(199, 133, 0, 0.639);
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h1, h2 {
+
+    margin: 0;
+}
+
+h1 {
+    text-align: left;
+    font-size: 40px;
+    margin-bottom: 32px;
+    color: rgb(100, 67, 6);
+}
+
+.contents {
+    width: 960px;
+    margin: auto;
+    padding: 36.8px 0 10px 0;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+h3 {     
+    font-size: 20px;
+    margin: 0 0 0 0;
+    color: black;
+    display: block;
+    margin-block-start: 0.4em;
+    margin-block-end: 0.3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    }
+
+li {
+    display: list-item;
+    }
+
+/* END general CSS */
+
+/* START images */
+
+.backgroundimg {
+    background-image: url(https://www.globaltimes.cn/Portals/0/attachment/2020/2020-12-27/4a98f80e-00de-49ff-b025-34f53d1d1496.jpeg)
+}
+
+.firstpic {
+    float: right;
+    margin: 0 0 40px 25px;
+}
+
+.tibetmap {
+    float: left;
+    text-decoration: none;
+}
+
+.oldpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.puppies {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+img.contents {
+    max-width: 100%;
+    height: auto;
+}
+
+#section3 img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    float: left;
+    margin-bottom: 1px;
+    margin-right: 15px;
+}
+
+/* END Images */
+
+/* START section CSS */
+#section1 {
+    background-size: cover;
+    background-position: center;
+    display: block;
+}
+
+#section1 h1 {
+    text-align: center;
+}
+
+#section1 .contents {
+    padding: 152px 0px 50px 0;
+}
+
+#section1 h1 {
+    font-size: 60px;
+    margin-bottom:0;
+}
+
+#section1 h2 {
+    font-size: 30px;
+    line-height: 1.2;
+    color: black;
+}
+
+#section1 p {
+    font-size: 23px;
+    text-align: left;
+    background: rgba(215, 0, 0, 0.708); 
+    padding: 40px; 
+    border: 5px solid rgb(243, 231, 191); 
+    margin: 10px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#section2 p {
+    font-size: 23px;
+    text-align: left;
+    background: rgba(215, 0, 0, 0.708); 
+    padding: 40px; 
+    border: 5px solid rgb(243, 231, 191); 
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+#section3 p {
+    font-size: 23px;
+    text-align: left;
+    background: rgba(215, 0, 0, 0.708); 
+    padding: 40px; 
+    border: 5px solid rgb(243, 231, 191); 
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+#section4 p {
+    font-size: 23px;
+    text-align: left;
+    background: rgba(215, 0, 0, 0.708); 
+    padding: 40px; 
+    border: 5px solid rgb(243, 231, 191); 
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+#section5 p {
+    font-size: 23px;
+    text-align: left;
+    background: rgba(215, 0, 0, 0.708); 
+    padding: 40px; 
+    border: 5px solid rgb(243, 231, 191); 
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+section {
+    display: block;
+}
+
+#section2 {
+    padding-bottom: 16px;
+    background-size: cover;
+    display: block;
+}
+
+#section3 h1 {
+    margin-block-start: 0.59em;
+    margin-block-end: 0.59em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#section2 .contents {
+    padding: 50px 0px 50px 0;
+}
+    
+#section3 li {
+    padding-right: 30px;
+    color: black;
+    }
+
+#section3 .contents {
+    padding: 50px 0px 0px 0;
+}
+
+#section4 h1 {
+    line-height: 1.56;
+    margin-bottom: 0px; 
+    padding: 48.5px 0 0 0;
+}
+
+
+#section5 .contents {
+    padding: 50px 0px 50px 0;
+}
+
+#section4 .contents {
+    padding: 50px 0px 50px 0;
+}
+
+#section2 img {
+    float: right;
+    border: 1px solid white;
+    margin: 0 0 20px 40px;
+    object-fit: cover;
+}
+
+/* END section CSS */
+
+/* START Nav Bar */
+.navbar {
+    overflow: hidden;
+    background-color: rgba(243, 243, 243, 0.836);
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%;
+    float: right;
+}
+
+  .navbar a {
+    float: left;
+    display: block;
+    color: rgb(100, 67, 6);
+    text-align: left;
+    padding: 14px 15px 0px 10px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .navbar a:hover {
+    background: rgb(15, 91, 179);
+    color: rgb(255, 242, 0);
+    transition: all 1s;
+  }
+
+  .invisible a {
+
+    color: rgba(243, 243, 243, 0);
+  }
+
+  .invisible a:hover {
+
+    background:rgba(15, 92, 179, 0);
+    color: rgba(100, 67, 6, 0);
+    transition: all 0s;
+  }
+
+/* END navigation bar */
+
+/* START home button */
+.homebutton {
+    overflow: hidden;
+    background-color: rgba(243, 243, 243, 0);
+    position: fixed;
+    top: 5px;
+    float: right;
+  }
+
+  /* END home button */
+  
+/* START pros/cons list */
+.pros-consbox {
+    display: flex;
+    max-width: 700px;
+    background: rgb(255, 255, 255);
+    margin: 32px auto;
+    box-shadow: 0 4px 16px -4px rgba(0, 0, 0, 0.527);
+    font-family: 'Roboto', sans-serif;
+}
+
+.pros-consbox .heading {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(100, 67, 6);
+    margin: 0;
+    padding: 16px 24px;
+}
+
+.pros-consbox .pros-container .heading {
+    background: rgba(251, 255, 0, 0.326);
+}
+
+.pros-consbox .cons-container .heading {
+    background: rgba(7, 32, 157, 0.336);
+}
+
+.pros-consbox .pros-container {
+    flex: 1;
+    border-right: 1px solid rgb(227, 224, 224);
+}
+
+.pros-consbox .cons-container {
+    flex: 1;
+}
+
+.pros-consbox ul {
+    padding: 8px 0;
+    list-style: none;
+    margin: 0;
+}
+
+.pros-consbox ul li {
+    padding: 16px 32px;
+    font-size: 16px;
+    line-height:2;
+}
+
+/* END pros/cons list */
+
+.gridpix {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    line-height: 1.4;
+    padding: 0px;
+    margin: 0 0 0 0;
+    list-style: none;
+}
+
+/* START footer */
+
+footer a:hover {
+    color: blue;
+    transition: all 1s;
+}
+
+footer a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    float: left;
+}
+
+footer {
+    background-color: rgba(118, 79, 0, 0.502);
+    display: block;
+    width: 80%;
+    font-family: 'Roboto', sans-serif;
+    padding: 5px 200px 30px 10px;
+    float: left;
+}
+
+/* END footer */
+
+
+/* START media queries */
+
+        @media screen and (width: 700px) {
+        #section1 p {
+            font-size: 50px;
+        }
+    }
+    
+        @media screen and (max-width: 700px) {
+        #section1 p {
+            font-size: 50px;
+        }
+    }
+    
+    @media screen and (width: 700px) {
+        #section2 p {
+            font-size: 50px;
+        }
+    }
+    
+    @media screen and (max-width: 700px) {
+        #section2 p {
+            font-size: 50px;
+        }
+    }
+
+@media screen and (width: 700px) {
+        #section3 p {
+            font-size: 50px;
+            line-height: 60px;
+        }
+    }
+    
+@media screen and (max-width: 700px) {
+        #section3 p {
+            font-size: 50px;
+            line-height: 60px;
+        }
+    }
+
+    @media screen and (width: 700px) {
+        #section4 p {
+            font-size: 50px;
+        }
+    }
+    
+    @media screen and (max-width: 700px) {
+        #section4 p {
+            font-size: 50px;
+        }
+    }
+
+    @media screen and (width: 700px) {
+        #section5 p {
+            font-size: 50px;
+        }
+    }
+    
+    @media screen and (max-width: 700px) {
+        #section5 p {
+            font-size: 50px;
+        }
+    }
+
+/* ----- */
+
+
+    @media screen and (width: 700px) {
+        #section1 h1 {
+            font-size: 80px;
+        }
+    }
+    
+        @media screen and (max-width: 700px) {
+        #section1 h1 {
+            font-size: 80px;
+        }
+    }
+    
+    @media screen and (width: 700px) {
+        #section2 h1 {
+            font-size: 80px;
+        }
+    }
+    
+    @media screen and (max-width: 700px) {
+        #section2 h1 {
+            font-size: 80px;
+        }
+    }
+
+@media screen and (width: 700px) {
+        #section3 h1 {
+            font-size: 80px;
+        }
+    }
+    
+@media screen and (max-width: 700px) {
+        #section3 h1 {
+            font-size: 80px;
+        }
+    }
+
+    @media screen and (width: 700px) {
+        #section4 h1 {
+            font-size: 80px;
+        }
+    }
+    
+    @media screen and (max-width: 700px) {
+        #section4 h1 {
+            font-size: 80px;
+        }
+    }
+
+    @media screen and (width: 700px) {
+        #section5 h1 {
+            font-size: 80px;
+        }
+    }
+    
+    @media screen and (max-width: 700px) {
+        #section5 h1 {
+            font-size: 80px;
+        }
+    }
+
+    /* ----- */
+    @media screen and (max-width: 700px) {
+        .tibetmap {
+            width: 60%;
+        }
+
+        .oldpic {
+
+            width: 70%;
+        }
+
+        .puppies {
+
+            width: 80%;
+        }
+
+        #section3 img {
+
+            width: 50%;
+            height: 20%;
+            padding: 0 150px 30px 0;
+        }
+    }
+
+    /* ----- */
+
+    @media (max-width: 1190px) {
+        body {
+            padding: 0;
+            margin: 0;
+        }
+    
+        .navbar {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0px;
+            margin-bottom: 40px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .navbar a {
+            font-size: 40px;
+        }
+    
+        header img {
+            display: none;
+        }
+
+        .invisible a {
+
+           display: none;
+          }
+    }
+
+    /* ------ */
+
+  @media (max-width: 700px) {
+    .pros-consbox {
+        flex-direction: column;
+    }
+
+    .pros-consbox ul li {
+        font-size: 40px;
+    }
+
+    .pros-consbox ul li:nth-of-type(2n) {
+
+        background: #eee;
+    } /* I had to look up how to do this part on the internet */
+        
+    .pros-container .heading {
+
+        font-size: 50px;
+}
+    .cons-container .heading {
+        font-size: 50px;
+}
+    footer a {
+        font-size: 30px;
+    }
+  }  
+
+/* END media queries */
